@@ -4,6 +4,14 @@
 
 AntonblastAP is an [Archipelago Randomizer](https://github.com/ArchipelagoMW/Archipelago) Implementation of ANTONBLAST, essentially turning the game into a Randomizer, shuffling its items around the Game.
 
+## Summary
+
+- [SETUP GUIDE](https://github.com/FloweyGaming/AntonblastAP#setup-guide)
+
+- [FEATURES](https://github.com/FloweyGaming/AntonblastAP#features)
+
+- [EXTRAS](https://github.com/FloweyGaming/AntonblastAP#extras)
+
 # SETUP GUIDE
 
 ## Required Software
@@ -62,3 +70,7 @@ Togglables
 - Combo Chains
 - CRACKED Ranks
 - Paul
+
+# EXTRAS
+
+- [PopTracker Pack](TBD)
