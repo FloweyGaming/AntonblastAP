@@ -1,4 +1,7 @@
-![ANTONBLAST Randomizer Logo](/assets/images/abrandologo.png)
+<img style="display: block;
+  margin: auto;
+  width: 50%;" src="/img/abrandologo.png" alt="ANTONBLAST Randomizer Logo">ANTONBLAST Randomizer Logo
+</img>
 
 ## What is this?
 
@@ -24,15 +27,15 @@ AntonblastAP is an [Archipelago Randomizer](https://github.com/ArchipelagoMW/Arc
 
 ### STEP 1
 
-> After downloading the Mod from [Gamebanana](https://gamebanana.com/mods/XXXXXX), extract the whole archive in your ANTONBLAST installation folder and using an app called [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher/releases), patch your unmodified 'data.win' file with the 'archiblast_v##.xdelta' file.
+> After downloading the Mod from [Gamebanana](https://gamebanana.com/mods/XXXXXX), extract the whole archive in your ANTONBLAST installation folder and using an app called [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher/releases), patch your unmodified `data.win` file with the `archiblast_v##.xdelta` file.
 
 ### STEP 2
 
-> Download the APWorld from the [releases page](https://github.com/FloweyGaming/AntonblastAP/releases) and install it by either opening the file or moving the 'antonblast.apworld' file to "C:\ProgramData\Archipelago\custom_worlds\"
+> Download the APWorld from the [releases page](https://github.com/FloweyGaming/AntonblastAP/releases) and install it by either opening the file or moving the `antonblast.apworld` file to ``C:\ProgramData\Archipelago\custom_worlds\``.
 
 ### STEP 3
 
-> 
+> Create your .yaml file by either using the "Options Creator" in your Archipelago Client or by manually making it using the template from the [releases page](https://github.com/FloweyGaming/AntonblastAP/releases).
 
 # FEATURES
 
@@ -53,23 +56,23 @@ AntonblastAP is an [Archipelago Randomizer](https://github.com/ArchipelagoMW/Arc
 ## Checks
 
 Default
-- Trash/Mementos
-- Spray Cans
-- Cassettes
-- Shop Goodies
-- Shop Sprays
-- Shop Cassettes
-- Level Completion
+> - Trash/Mementos
+> - Spray Cans
+> - Cassettes
+> - Shop Goodies
+> - Shop Sprays
+> - Shop Cassettes
+> - Level Completion
 
 Togglables
-- Detonators
-- Exterminator's Handbook Entries
-- Souvenir Limes
-- 25k Golden Chips
-- Par Times
-- Combo Chains
-- CRACKED Ranks
-- Paul
+> - Detonators
+> - Exterminator's Handbook Entries
+> - Souvenir Limes
+> - 25k Golden Chips
+> - Par Times
+> - Combo Chains
+> - CRACKED Ranks
+> - Paul
 
 # EXTRAS
 
