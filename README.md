@@ -1,3 +1,4 @@
+<head>
 <style>
 img {
   display: block;
@@ -5,6 +6,7 @@ img {
   width: 50%;
 }
 </style>
+</head>
 
 <img src="/img/abrandologo.png" alt="ANTONBLAST Randomizer Logo"></img>
 
