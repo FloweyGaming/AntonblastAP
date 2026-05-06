@@ -1,4 +1,12 @@
-<img style="display: block; margin: auto; width: 50%;" src="/img/abrandologo.png" alt="ANTONBLAST Randomizer Logo"></img>
+<style>
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+</style>
+
+<img src="/img/abrandologo.png" alt="ANTONBLAST Randomizer Logo"></img>
 
 ## What is this?
 
