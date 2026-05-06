@@ -24,7 +24,7 @@ AntonblastAP is an [Archipelago Randomizer](https://github.com/ArchipelagoMW/Arc
 
 ### STEP 1
 
-> After downloading the Mod from [Gamebanana](https://gamebanana.com/mods/XXXXXX), extract the whole archive in your ANTONBLAST installation folder and using an app called [DeltaPatcher](https://https://github.com/marco-calautti/DeltaPatcher/releases), patch your unmodified 'data.win' file with the 'archiblast_v##.xdelta' file.
+> After downloading the Mod from [Gamebanana](https://gamebanana.com/mods/XXXXXX), extract the whole archive in your ANTONBLAST installation folder and using an app called [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher/releases), patch your unmodified 'data.win' file with the 'archiblast_v##.xdelta' file.
 
 ### STEP 2
 
