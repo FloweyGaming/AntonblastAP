@@ -73,6 +73,11 @@ Togglables
 > - CRACKED Ranks
 > - Paul
 
+## Planned Features
+> - Death Link
+> - Ring Link
+> - 25k Chips' Colors matches Item Type
+
 # EXTRAS
 
 - [PopTracker Pack](TBD)
