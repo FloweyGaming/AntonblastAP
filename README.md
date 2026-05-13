@@ -14,6 +14,8 @@ AntonblastAP is an [Archipelago Randomizer](https://github.com/ArchipelagoMW/Arc
 
 - [EXTRAS](https://github.com/FloweyGaming/AntonblastAP#extras)
 
+- [CREDITS](https://github.com/FloweyGaming/AntonblastAP#credits)
+
 # SETUP GUIDE
 
 ## Required Software
@@ -81,3 +83,10 @@ Togglables
 # EXTRAS
 
 - [PopTracker Pack](TBD)
+
+# CREDITS
+Mod by [FloweyGaming/ThunderAux](https://github.com/FloweyGaming)
+
+APWorld by TinMines
+
+with additional help from [WhimsiEmi](https://gamebanana.com/members/4525817), [Skizzers](https://github.com/unsafetyskizzers) and [Mitchell Boot](https://github.com/Mitchell1711) from the Pizza Tower Archipelago Integration Team
