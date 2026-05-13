@@ -4,7 +4,7 @@
 
 ## What is this?
 
-AntonblastAP is an [Archipelago Randomizer](https://github.com/ArchipelagoMW/Archipelago) Implementation of ANTONBLAST, essentially turning the game into a Randomizer, shuffling its items around the Game.
+AntonblastAP is an [Archipelago Randomizer](https://github.com/ArchipelagoMW/Archipelago) Implementation of [ANTONBLAST](https://store.steampowered.com/app/1887400/ANTONBLAST), essentially turning the game into a Randomizer, shuffling its items around the Game.
 
 ## Summary
 
