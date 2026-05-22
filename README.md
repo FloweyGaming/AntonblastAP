@@ -87,6 +87,8 @@ Togglables
 # CREDITS
 Mod by [FloweyGaming/ThunderAux](https://github.com/FloweyGaming)
 
-APWorld by TinMines
+APWorld by [Skizzers](https://github.com/unsafetyskizzers)
 
-with additional help from [WhimsiEmi](https://gamebanana.com/members/4525817), [Skizzers](https://github.com/unsafetyskizzers) and [Mitchell Boot](https://github.com/Mitchell1711) from the Pizza Tower Archipelago Integration Team
+Check Documentation by [Cawis](https://youtube.com/@Cawis8) & [TinMines](https://youtube.com/channel/UCdqgzq1FJMODsDo92HOJleQ)
+
+with additional help from [WhimsiEmi](https://gamebanana.com/members/4525817) and [Mitchell Boot](https://github.com/Mitchell1711) from the Pizza Tower Archipelago Integration Team
