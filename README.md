@@ -24,17 +24,23 @@ AntonblastAP is an [Archipelago Randomizer](https://github.com/ArchipelagoMW/Arc
 - [The Latest version of the ANTONBLAST Archipelago Mod](https://gamebanana.com/mods/XXXXXX)
 - [The Latest version of the ANTONBLAST APWorld](https://github.com/FloweyGaming/AntonblastAP/releases)
 
-## Installing the Mod
+## Setting up your Game
 
-### STEP 1
+__This step is very important!__
+
+> Open Steam, right-click your "ANTONBLAST" game in your Library and open up "Properties". In the "Game Versions & Betas" Tab, select the "vm_public" branch and let your game update to finalize your installation.
+
+## Installing the Mod
 
 > After downloading the Mod from [Gamebanana](https://gamebanana.com/mods/XXXXXX), extract the whole archive in your ANTONBLAST installation folder and using an app called [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher/releases), patch your unmodified `data.win` file with the `archiblast_v##.xdelta` file.
 
-### STEP 2
+## Installing the APWorld
+
+### STEP 1
 
 > Download the APWorld from the [releases page](https://github.com/FloweyGaming/AntonblastAP/releases) and install it by either opening the file or moving the `antonblast.apworld` file to ``C:\ProgramData\Archipelago\custom_worlds\``.
 
-### STEP 3
+### STEP 2
 
 > Create your .yaml file by either using the "Options Creator" in your Archipelago Client or by manually making it using the template from the [releases page](https://github.com/FloweyGaming/AntonblastAP/releases).
 
