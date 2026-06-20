@@ -21,8 +21,8 @@ AntonblastAP is an [Archipelago Randomizer](https://github.com/ArchipelagoMW/Arc
 ## Required Software
 
 - [The Latest version of the Archipelago Client](https://github.com/ArchipelagoMW/Archipelago/releases)
-- [The Latest version of the ANTONBLAST Archipelago Mod](https://gamebanana.com/mods/XXXXXX)
-- [The Latest version of the ANTONBLAST APWorld](https://github.com/FloweyGaming/AntonblastAP/releases)
+- [The Latest version of the ANTONBLAST Archipelago Mod](https://gamebanana.com/mods/XXXXXX) (No Release)
+- [The Latest version of the ANTONBLAST APWorld](https://github.com/FloweyGaming/AntonblastAP/releases) (No Release)
 
 ## Setting up your Game
 
